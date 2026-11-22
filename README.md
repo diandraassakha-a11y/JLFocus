@@ -1,4 +1,4 @@
-# ZenFocus 🍅📱 — Pomodoro Anti-Prokrastinasi Berbasis Sensor Hardware
+# ZenFocus  — Pomodoro Anti-Prokrastinasi Berbasis Sensor Hardware
 
 ZenFocus adalah aplikasi Android Pomodoro / Focus Timer inovatif yang dirancang untuk membantu pengguna tetap fokus belajar atau bekerja tanpa terdistraksi mengecek HP. Aplikasi ini memanfaatkan dua sensor hardware secara *real-time* untuk menegakkan kedisiplinan sesi fokus.
 
@@ -28,7 +28,7 @@ ZenFocus adalah aplikasi Android Pomodoro / Focus Timer inovatif yang dirancang 
 
 ---
 
-## 🏛️ Arsitektur & Tech Stack
+##  Arsitektur & Tech Stack
 
 Aplikasi ini dibangun menggunakan standar industri Android modern dengan arsitektur **MVVM (Model - View - ViewModel)** yang bersih:
 
@@ -71,7 +71,7 @@ com.example.zenfocus/
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+##  Cara Menjalankan Aplikasi
 
 1. **Clone repository ini** atau buka folder project di **Android Studio** (Ladybug / Jellyfish atau versi terbaru).
 2. Tunggu proses **Gradle Sync** selesai.
@@ -81,15 +81,3 @@ com.example.zenfocus/
 4. **Menjalankan di Android Emulator:**
    - Karena emulator terkadang tidak mensimulasikan sensor fisik secara akurat, aktifkan **Toggle Mode Simulasi Sensor** di halaman utama aplikasi untuk menguji alur letak meja (*face-down*) secara virtual.
 
----
-
-## 📸 Screenshot Placeholder
-
-| Halaman Timer (Fokus) | Halaman Riwayat & Statistik | Peringatan Ruangan Gelap |
-| :----------------: | :-------------------------: | :-----------------------: |
-| *[Screenshot Timer]* | *[Screenshot History]* | *[Screenshot Warning]* |
-
----
-
-## 📝 Lisensi
-Project ini dibuat untuk keperluan pembelajaran dan pengembangan aplikasi Android profesional menggunakan Jetpack Compose & Hardware Sensors.
