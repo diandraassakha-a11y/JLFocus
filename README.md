@@ -4,7 +4,7 @@ ZenFocus adalah aplikasi Android Pomodoro / Focus Timer inovatif yang dirancang 
 
 ---
 
-## 🌟 Fitur Utama
+##  Fitur Utama
 
 1. **Proximity Sensor (Position Sensor - Anti-Distraksi):**
    - Sesi fokus **HANYA** berjalan saat HP diletakkan tertelungkup (*face-down*) di atas meja (sensor proximity tertutup).
@@ -12,7 +12,7 @@ ZenFocus adalah aplikasi Android Pomodoro / Focus Timer inovatif yang dirancang 
 
 2. **Light Sensor (Environment Sensor - Cek Cahaya Ruangan):**
    - Mendeteksi intensitas cahaya ruangan dalam satuan **Lux**.
-   - Jika ruangan terlalu gelap (`< 20 lux`), aplikasi memberikan peringatan visual (`"Terlalu Gelap ⚠️"`) dan menyesuaikan skema warna antarmuka kartu status agar pengguna sadar akan kesehatan mata saat membaca/belajar.
+   - Jika ruangan terlalu gelap (`< 20 lux`), aplikasi memberikan peringatan visual (`"Terlalu Gelap "`) dan menyesuaikan skema warna antarmuka kartu status agar pengguna sadar akan kesehatan mata saat membaca/belajar.
 
 3. **Manajemen Sesi & Pilihan Durasi Fleksibel:**
    - Opsi durasi cepat menggunakan `FilterChip`: **1 Menit (Mode Demo)**, **15 Menit**, **25 Menit**, dan **45 Menit**.
@@ -77,7 +77,7 @@ com.example.zenfocus/
 2. Tunggu proses **Gradle Sync** selesai.
 3. **Menjalankan di Perangkat Fisik (Disarankan):**
    - Pastikan perangkat mendukung Proximity dan Light Sensor.
-   - Sambungkan HP via USB Debugging, lalu klik tombol **Run ▶️**.
+   - Sambungkan HP via USB Debugging, lalu klik tombol **Run **.
 4. **Menjalankan di Android Emulator:**
    - Karena emulator terkadang tidak mensimulasikan sensor fisik secara akurat, aktifkan **Toggle Mode Simulasi Sensor** di halaman utama aplikasi untuk menguji alur letak meja (*face-down*) secara virtual.
 
