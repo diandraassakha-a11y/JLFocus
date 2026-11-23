@@ -1,4 +1,4 @@
-# ZenFocus  — Pomodoro Anti-Prokrastinasi Berbasis Sensor Hardware
+# JLFocus — Pomodoro Anti-Prokrastinasi Berbasis Sensor Hardware
 
 ZenFocus adalah aplikasi Android Pomodoro / Focus Timer inovatif yang dirancang untuk membantu pengguna tetap fokus belajar atau bekerja tanpa terdistraksi mengecek HP. Aplikasi ini memanfaatkan dua sensor hardware secara *real-time* untuk menegakkan kedisiplinan sesi fokus.
 
